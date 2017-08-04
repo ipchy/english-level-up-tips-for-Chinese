@@ -18,7 +18,7 @@ https://www.gitbook.com/read/book/byoungd/english-level-up-tips-for-chinese
 
 ## 英语水平等级
 
-![CERF@2x.png](assets/CERF@2x.png)
+![CERF@2x.png](assets/CEFR@2x.png)
 
 >本图主要参考 http://www.coe.int/en/web/common-european-framework-reference-languages/table-1-cefr-3.3-common-reference-levels-global-scale
 
@@ -43,20 +43,11 @@ https://www.gitbook.com/read/book/byoungd/english-level-up-tips-for-chinese
 
 ### 待完成：
 
-![ideas@2x.png](assets/scheme@2x.png)
-
-方案篇是分别为学生党和在职人员量身定制的英语学习方案，如果不采用合适的学习计划，那么碎片时间能做的基本上只有提升词汇了。
-
-
-这篇是正在写的，会尽快发布。
-
----
-
 ![writing@2x.png](assets/writing@2x.png)
 
-写作的要求很高，本人的写作水平并不自信，目前不敢妄言，恐误人子弟；
-也不愿推荐几本语法书、写作书就草草了事，
-我需要一些时间去慢慢完善这个章节。
+>由于最近工作任务较重，写作篇延期，暂无具体计划，请谅解！
+
+---
 
 ![word-list@2x.png](assets/word-list@2x.png)
 
@@ -92,12 +83,16 @@ https://www.gitbook.com/read/book/byoungd/english-level-up-tips-for-chinese
 ## 有疑问或建议
 您可以直接在本 repo 提 issue
 
+## 协议/License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/88x31.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">知识共享署名-非商业性使用 4.0 国际许可协议</a>进行许可。
+
 ## 关于赞赏
 
-最近收到了一些热心小伙伴的来信，觉得本指南写的很用心，认为对其学习英语有一定的帮助，希望能进行赞赏。
+有不少热心的小伙伴来信，表明本指南写的很用心，认为对其学习英语有一定的帮助，希望能进行赞赏。
 
-在此，统一声明：**本指南不接受也不需要金钱上的赞助**
+在此，统一声明：**本指南不接受也不需要金钱上的赞助**。
 
-请把你那些本来想用来赞赏的零钱给自己买几本好书，并认认真真地看。
+请把你那些本来想用来赞赏的零钱给自己买几本好书，Enjoy!
 
     学习，难道不是人生最棒的乐趣么？
